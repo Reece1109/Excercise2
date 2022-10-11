@@ -1,0 +1,7 @@
+.phone ul li:first-child {
+    font-size: 30px;
+}
+
+.phone ul li:last-child {
+    font-size: 30px;
+}
